@@ -1,5 +1,38 @@
 # 💫 About Me:
-I am currently in my final year of college studying computer science.<br>I am passoniate about building pipelines with ml  and llms models that tend to create  impact in real world.
+# Hi, I'm Chaturya Ganne 👋  
+
+🎓 Graduate Student in **Applied Machine Learning** at the University of Maryland, College Park (Class of 2027)
+💻 Passionate about **Machine Learning, Computer Vision, and Data Science**  
+📊 Researcher with publications in **AI, Structural Health Monitoring, and Seismic Analysis**  
+
+---
+
+## 🚀 What I Do
+- 🔬 **Research & Projects:**  
+  - Smart Railway Safety (Deep Learning + Vision Transformers) – Accepted at IWSHM 2025, Stanford  
+  - Predicting Duration of Vertical Ground Motions – Published at ICOAI 2024  
+  - Underwater Camouflaged Object Detection – Using Cross-Stitch Networks & U-Net  
+
+- 🛠️ **Tech Stack:**  
+  - Languages: Python, C++, Java, SQL  
+  - Frameworks: PyTorch, TensorFlow, Scikit-learn, Keras  
+  - Tools: Power BI, Docker, Git, FastAPI  
+
+- 🌱 Currently learning advanced **AI optimization techniques** and exploring **sustainable applications of ML**  
+
+---
+
+## 📈 Highlights
+- 📄 Publications on earthquake motion analysis and AI in structural monitoring  
+- 🏆 Merit Scholarship awardee (Mahindra University, all 4 years)  
+- 🌍 Conference presenter at ICRESH 2024 (BARC, Mumbai) and IWSHM 2025 (Stanford)  
+
+---
+
+## 📬 Connect With Me
+- 📧 Email: cganne@umd.edu  
+ 
+
 
 
 ## 🌐 Socials:
