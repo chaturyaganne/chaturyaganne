@@ -1,4 +1,4 @@
-# Hi, I'm Chaturya Ganne 👋
+# Hi, I'm Chaturya Ganne 
 
 **MS Applied Machine Learning @ UMD (4.0 GPA)** | **Published ML Researcher** | **Building Production AI Systems**
 
@@ -9,28 +9,27 @@
 
 ---
 
-## 🔥 Recent Highlights
+## Recent Highlights
 
-🏆 **2 Papers Accepted at Stanford IWSHM 2025** - Railway Safety AI with Vision Transformers  
-🚀 **Built Autonomous 3D Generation Agent** - RL + Diffusion Models with MLOps Pipeline  
-📊 **Improved Image Processing by 25%** - Transformer Architecture Optimization  
-🏥 **Deployed AI Medical Diagnosis Tool** - [Live Demo](https://chaturyaganne.github.io/medical_diaganois_tool/) | ResNet50 + Grad-CAM + LLaMA  
-🎓 **4.0 GPA** - MS Applied Machine Learning @ University of Maryland
-
----
-
-## 💼 What I'm Currently Working On
-
-🔭 Developing advanced **reinforcement learning agents** for autonomous 3D asset generation  
-🌱 Building **end-to-end MLOps pipelines** with MLflow, Docker, and cloud deployment  
-💡 Applying **Computer Vision** to real-world challenges in healthcare and infrastructure  
-📚 Researching **Vision Transformers** and **Multimodal AI** for production systems
+**2 Papers Accepted at Stanford IWSHM 2025** - Railway Safety AI with Vision Transformers  
+**Built Autonomous 3D Generation Agent** - RL + Diffusion Models with MLOps Pipeline  
+**Improved Image Processing by 25%** - Transformer Architecture Optimization  
+**Deployed AI Medical Diagnosis Tool** - [Live Demo](https://chaturyaganne.github.io/medical_diaganois_tool/) | ResNet50 + Grad-CAM + LLaMA  
+**4.0 GPA** - MS Applied Machine Learning @ University of Maryland
 
 ---
 
-## 🚀 Featured Projects
+##  What I'm Currently Working On
 
-### 🏥 [AI Medical Diagnosis Tool](https://github.com/chaturyaganne/medical_diaganois_tool)
+ Developing advanced **reinforcement learning agents** for autonomous 3D asset generation  
+Building **end-to-end MLOps pipelines** with MLflow, Docker, and cloud deployment  Applying **Computer Vision** to real-world challenges in healthcare and infrastructure 
+ Researching **Vision Transformers** and **Multimodal AI** for production systems
+
+---
+
+## Featured Projects
+
+### [AI Medical Diagnosis Tool](https://github.com/chaturyaganne/medical_diaganois_tool)
 **ResNet50 + Grad-CAM + LLaMA Integration** | **92% AUC-ROC Accuracy**
 
 Full-stack medical assistant for chest X-ray analysis detecting 15 thoracic diseases. Features interpretable AI with Grad-CAM visualizations and automated report generation using LLaMA 3.2.
@@ -41,18 +40,18 @@ Full-stack medical assistant for chest X-ray analysis detecting 15 thoracic dise
 
 ---
 
-### 🤖 Autonomous 3D Asset Generation Agent
+###  Autonomous 3D Asset Generation Agent
 **DQN Reinforcement Learning + Text-to-3D Diffusion Models** | **52.5% Optimization Performance**
 
 Multi-stage Agentic AI using LangChain that autonomously generates and optimizes mechanical designs. Complete MLOps pipeline with MLflow experiment tracking and Docker deployment.
 
 `Reinforcement Learning` `Generative AI` `MLOps` `LangChain` `Docker` `MLflow`
 
-📦 *Repository coming soon - Currently cleaning code for public release*
+
 
 ---
 
-### 🚆 [Smart Railway Safety: Vision Transformers](https://www.dpi-proceedings.com/index.php/shm2025/article/view/37360)
+###  [Smart Railway Safety: Vision Transformers](https://www.dpi-proceedings.com/index.php/shm2025/article/view/37360)
 **RT-DETR + YOLOv8 + MaskRCNN Fusion** | **F1-Score: 0.89** | **📄 Published @ Stanford IWSHM 2025**
 
 Computer Vision sensor system for obstacle detection and track health monitoring. Pioneered Vision-Language Transformer (ViLT) fusion model for risk score prediction.
@@ -63,7 +62,7 @@ Computer Vision sensor system for obstacle detection and track health monitoring
 
 ---
 
-### 🔬 [Hyperparameter Optimization Research](https://github.com/chaturyaganne)
+###  [Hyperparameter Optimization Research](https://github.com/chaturyaganne)
 **SVM + Decision Trees for Time-Series Analysis** | **📄 Published @ ICOAI 2024**
 
 Advanced hyperparameter optimization techniques for predicting vertical ground motion duration in the Himalayan region using Machine Learning.
@@ -72,7 +71,7 @@ Advanced hyperparameter optimization techniques for predicting vertical ground m
 
 ---
 
-### 🎯 [Transformer & Diffusion Models](https://github.com/chaturyaganne/awone_internship)
+###  [Transformer & Diffusion Models](https://github.com/chaturyaganne/awone_internship)
 **25% Throughput Improvement** | **150ms Latency Reduction**
 
 Production ML systems including fine-tuned Transformers for image processing, virtual call assistant with STT/TTS, and optimized Groq implementations achieving 2x inference acceleration.
@@ -132,11 +131,10 @@ Production ML systems including fine-tuned Transformers for image processing, vi
 
 ## 🏆 Achievements
 
-🎓 **Perfect 4.0 GPA** - MS Applied Machine Learning, University of Maryland  
-🏅 **Merit Scholarship** - All 4 years at Mahindra University (2021-2025)  
-🎤 **Conference Presenter** - ICRESH 2024 (BARC, Mumbai) & IWSHM 2025 (Stanford)  
-📚 **Published Researcher** - 4+ peer-reviewed publications in AI and structural monitoring  
-👨‍💼 **Data Science Intern** - AwoneDataSciences (Jun-Aug 2024)
+ **Perfect 4.0 GPA** - MS Applied Machine Learning, University of Maryland  
+ **Merit Scholarship** - All 4 years at Mahindra University (2021-2025)  **Conference Presenter** - ICRESH 2024 (BARC, Mumbai) & IWSHM 2025 (Stanford)  
+**Published Researcher** - 4+ peer-reviewed publications in AI and structural monitoring  
+**Data Science Intern** - AwoneDataSciences (Jun-Aug 2024)
 
 ---
 
