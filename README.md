@@ -18,7 +18,7 @@ I build RAG systems, agentic pipelines, and computer vision models, and ship the
 - **2x production inference speed** on Groq workloads and **+25% image-processing throughput** from fine-tuned transformer and diffusion models at AwoneDataSciences
 - **2 papers at IWSHM 2025 (Stanford University)** on railway safety with vision transformers, 5 publications in total
 - **92% AUC-ROC** chest X-ray diagnosis tool across 15 thoracic diseases: [Live Demo](https://chaturyaganne.github.io/medical_diaganois_tool/)
-- **4.0 GPA** in the MS Applied Machine Learning program at UMD
+
 
 ---
 
