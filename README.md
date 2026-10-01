@@ -1,6 +1,6 @@
 # Hi, I'm Chaturya Ganne 
 
-**MS Applied Machine Learning @ UMD (4.0 GPA)** | **Published ML Researcher** | **Building Production AI Systems**
+**MS Applied Machine Learning @ UMD ** | **Published ML Researcher** | **Building Production AI Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaturya-ganne-6b85a7178/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=SAiN8-oAAAAJ)
